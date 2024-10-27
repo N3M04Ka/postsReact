@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Title",
+      "body": "First Bodyyy"
+    },
+    {
+      "id": "2",
+      "title": "Second Title",
+      "body": "Second Body"
+    },
+    {
+      "id": "3",
+      "title": "Third Title",
+      "body": "Thidrd very long title for this body"
+    },
+    {
+      "id": "4",
+      "title": "Fourth Title",
+      "body": "Fourth Body"
+    }
+  ]
+}
